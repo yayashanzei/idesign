@@ -1,2 +1,2 @@
 # idesign
-A JavaScript library like jQuery has not yet been completed, and I will continue to do it in my spare time. At present, the overall structure of the selector is completed and the class selector is implemented.
+练手的类似jquery的东东，兼容ie6，主要是选择器部分，选择器的基本结构及类选择器已经实现
